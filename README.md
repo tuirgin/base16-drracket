@@ -32,6 +32,7 @@ raco pkg install git://github.com/tuirgin/base16-drracket
 
 ## Screenshots
 
+| Scheme Name            | Screenshot                                                                                     |
 |-----------------------:|:-----------------------------------------------------------------------------------------------|
 | 3024 Dark              | ![3024 Dark](./images/base16_3024_dark.png "3024 Dark")                                        |
 | 3024 Light             | ![3024 Light](./images/base16_3024_light.png "3024 Light")                                     |
