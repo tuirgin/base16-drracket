@@ -23,3 +23,9 @@ Alternatively, all themes can be installed by running:
 ```shell
 raco pkg install {PATH TO}/base16-theme
 ```
+
+The themes can also be installed directly from GitHub:
+
+```shell
+raco pkg install git@github.com:tuirgin/base16-drracket.git
+```
