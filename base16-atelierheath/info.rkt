@@ -29,7 +29,7 @@
           (white-on-black-base? . #t)
           (colors
            .
-	   ((drracket:syncheck:matching-identifiers            ,base0B)
+	   ((drracket:syncheck:matching-identifiers            ,base03)
             (framework:basic-canvas-background                 ,base00)
             (framework:default-text-color                      ,base05)
             (framework:misspelled-text-color                   ,base08)
@@ -64,7 +64,7 @@
           (white-on-black-base? . #f)
           (colors
            .
-           ((drracket:syncheck:matching-identifiers            ,base0B)
+           ((drracket:syncheck:matching-identifiers            ,base03)
             (framework:basic-canvas-background                 ,base07)
             (framework:default-text-color                      ,base02)
             (framework:misspelled-text-color                   ,base08)
