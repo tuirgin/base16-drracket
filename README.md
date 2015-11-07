@@ -4,9 +4,18 @@ See the [Base16 Repository](https://github.com/chriskempson/base16)
 for more information. This theme was built with [Base16
 builder](https://github.com/chriskempson/base16-builder).
 
+## UPDATE on 2015-11-07 11:44:16
+
+I have re-run base16-builder to regenerate the styles. There are a few new ones
+included now. I have not updated the screenshot, and I have made no attempt to
+confirm that these work in DrRacket. I've been away from the environment for a
+couple years and am not familiar with changes that may have occurred. If
+anything is broken, please do log an issue and let me know about it.
+
 ## Installation
 
-Each theme is contained in it's own package folder within `base16-theme`. Individual themes can be installed by running:
+Each theme is contained in it's own package folder within `base16-theme`.
+Individual themes can be installed by running:
 
 ```shell
 raco pkg install {PATH TO THEME FOLDER}
