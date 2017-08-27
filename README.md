@@ -4,6 +4,16 @@ See the [Base16 Repository](https://github.com/chriskempson/base16)
 for more information. This theme was built with [Base16
 builder](https://github.com/chriskempson/base16-builder).
 
+## Spacemacs Themes for DrRacket on 2017-08-26 23:53:58
+
+Being a long-time fan of Spacemacs, and very comfortable with the light and dark
+Spacemacs themes, I decided to adapt them for DrRacket. This was a manual effort
+unrelated to Base16 and is much more likely to work as delivered and receive
+updates as I see a need. You can find this repository here:
+https://github.com/tuirgin/drracket-spacemacs-theme
+
+Enjoy.
+
 ## DEPRECATION UPDATE on 2016-08-15 14:01:00
 
 Base16-builder has been deprecated and I am presently disinclined to learn the changes 
